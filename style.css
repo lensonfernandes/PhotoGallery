@@ -1,0 +1,23 @@
+body{
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+    height: 100vh;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    border: 2px solid blue;
+
+}
+
+.box{
+    border: 1px dotted green;
+}
+
